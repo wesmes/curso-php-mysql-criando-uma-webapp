@@ -1,8 +1,8 @@
 # Curso Alura: PHP e MySQL: Criando uma webapp
 
-Progresso:
-  [x] Começando com PHP
-  [ ] Obtendo os artigos do banco de dados
-  [ ] Adicionando um artigo no banco
-  [ ] Realizando a exclusão de um artigo
-  [ ] Implementando a edição do artigo
+Progresso:<br/>
+  [x] Começando com PHP<br/>
+  [ ] Obtendo os artigos do banco de dados<br/>
+  [ ] Adicionando um artigo no banco<br/>
+  [ ] Realizando a exclusão de um artigo<br/>
+  [ ] Implementando a edição do artigo<br/>
