@@ -1,5 +1,6 @@
 <?php
 
+require 'Config.php';
 include 'Artigo.php';
 
 $artigo = new Artigo();
