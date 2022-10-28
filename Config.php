@@ -3,9 +3,7 @@
 $mysql = new mysqli('localhost','root','', 'blog');
 $mysql->set_charset('utf8');
 
-if($mysql == TRUE)
+if($mysql == FALSE)
 {
-    echo 'Banco conectado';
-} else {
     echo 'Erro na conexão';
 }

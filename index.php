@@ -3,7 +3,7 @@
 require 'Config.php';
 include 'Artigo.php';
 
-$artigo = new Artigo();
+$artigo = new Artigo($mysql);
 $artigos = $artigo->exibirTodos();
 
 ?>
